@@ -1,6 +1,6 @@
 # pybase
 
-Here are the tools we need to have in a py-project
+Here are the tools we like to use in a py-project
 
 - [x] [tests][0]
 - [x] [pre-commit][1]
