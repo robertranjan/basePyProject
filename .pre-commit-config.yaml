@@ -12,7 +12,6 @@ repos:
       - id: check-json
       - id: check-merge-conflict
       - id: detect-private-key
-      - id: detect-aws-credentials
       - id: name-tests-test
   - repo: https://github.com/psf/black
     rev: "22.3.0"
